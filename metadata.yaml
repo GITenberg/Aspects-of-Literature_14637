@@ -1,0 +1,38 @@
+_repo: Aspects-of-Literature_14637
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murry, John Middleton
+    aliases:
+    - Murry, J. Middleton (John Middleton)
+    - Murray, J. Middleton
+    birthdate: 1889
+    deathdate: 1957
+    gutenberg_agent_id: '5606'
+    url: http://www.gutenberg.org/2009/agents/5606
+description: ''
+gutenberg_issued: '2005-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14637'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criticism'
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'Literature, Modern -- History and criticism'
+- !lcc 'PN'
+tableOfContents: The function of criticism -- The religion of Rousseau -- The poetry
+  of Edward Thomas -- Mr. Yeat's swan song -- The wisdom of Anatole France -- Gerard
+  Manley Hopkins -- The problem of Keats -- Thoughts on Tchehov -- American poetry
+  -- Ronsard -- Samuel Butler -- The poetry of Thomas Hardy -- The present condition
+  of English poetry -- The nostalgia of Mr. Masefield -- The lost legions -- The cry
+  in the wilderness -- Poetry and criticism -- Coleridge's criticism -- Shakespeare
+  criticism.
+title: Aspects of Literature
+url: http://www.gutenberg.org/ebooks/14637
